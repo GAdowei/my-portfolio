@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0688f24f.chunk.css",
+    "main.js": "/static/js/main.fb85dc36.chunk.js",
+    "main.js.map": "/static/js/main.fb85dc36.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e312f208.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e312f208.js.map",
+    "static/js/2.8e3c620c.chunk.js": "/static/js/2.8e3c620c.chunk.js",
+    "static/js/2.8e3c620c.chunk.js.map": "/static/js/2.8e3c620c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.409fbcd68d55f5bd511779759a3a5864.js": "/precache-manifest.409fbcd68d55f5bd511779759a3a5864.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0688f24f.chunk.css.map": "/static/css/main.0688f24f.chunk.css.map",
+    "static/js/2.8e3c620c.chunk.js.LICENSE.txt": "/static/js/2.8e3c620c.chunk.js.LICENSE.txt",
+    "static/media/facebook-logo.png": "/static/media/facebook-logo.3b6d3b95.png",
+    "static/media/pinterest-logo-white.png": "/static/media/pinterest-logo-white.d4c0c834.png",
+    "static/media/pokemon_logo.jpg": "/static/media/pokemon_logo.777cfd40.jpg",
+    "static/media/react-icon.png": "/static/media/react-icon.0ad1d17f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e312f208.js",
+    "static/js/2.8e3c620c.chunk.js",
+    "static/css/main.0688f24f.chunk.css",
+    "static/js/main.fb85dc36.chunk.js"
+  ]
+}
